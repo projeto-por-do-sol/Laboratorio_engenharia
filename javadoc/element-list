@@ -1,0 +1,7 @@
+app.auth
+app.config
+app.controller
+app.entity
+app.enums
+app.repository
+app.service
